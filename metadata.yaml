@@ -1,0 +1,41 @@
+_repo: An-Account-of-the-English-Colony-in-New-South-Wales-Volume-2--13-An-Account-Of-The-English-Co__12668
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: King, Philip Gidley
+    birthdate: 1758
+    deathdate: 1808
+    gutenberg_agent_id: '31941'
+    url: http://www.gutenberg.org/2009/agents/31941
+  - agent_name: Bass, George
+    birthdate: 1771
+    deathdate: 1803
+    gutenberg_agent_id: '39308'
+    url: http://www.gutenberg.org/2009/agents/39308
+  - agent_name: Collins, David
+    birthdate: 1756
+    deathdate: 1810
+    gutenberg_agent_id: '4430'
+    url: http://www.gutenberg.org/2009/agents/4430
+    wikipedia: http://en.wikipedia.org/wiki/David_Collins_%28governor%29
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New South Wales -- Description and travel'
+- !lcc 'DU'
+- GITenberg
+title: "An Account of the English Colony in New South Wales, Volume 2\r\nAn Account\
+  \ Of The English Colony In New South Wales, From Its First Settlement In 1788, To\
+  \ August 1801: With Remarks On The Dispositions, Customs, Manners, Etc. Of The Native\
+  \ Inhabitants Of That Country. To Which Are Added, Some Particulars Of New Zealand;\
+  \ Compiled, By Permission, From The Mss. Of Lieutenant-Governor King; And An Account\
+  \ Of The Voyage Performed By Captain Flinders And Mr. Bass."
+url: http://www.gutenberg.org/ebooks/12668
