@@ -1,5 +1,8 @@
 _repo: An-Account-of-the-English-Colony-in-New-South-Wales-Volume-2--13-An-Account-Of-The-English-Co__12668
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: King, Philip Gidley
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4430
     wikipedia: http://en.wikipedia.org/wiki/David_Collins_%28governor%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12668#An-Account-of-the-English-Colony-in-New-South-Wales-Volume-2--13-An-Account-Of-The-English-Co_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
